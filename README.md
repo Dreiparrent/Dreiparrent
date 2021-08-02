@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I have been studying code for 8 years. Since my first job in 2016, I have been a frontend developer.
 
-I started my JS and Node career with Angular. I have since moved to writing sites with React -it is more popular and faster to develope.
+I started my JS and Node career with Angular. I have since moved to writing sites with React - it is more popular and faster to develop.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreiparrent&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
