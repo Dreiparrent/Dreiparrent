@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Drei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreiparrent&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreiparrent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreiparrent&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
