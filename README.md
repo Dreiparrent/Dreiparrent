@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 
 [![Drei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreiparrent&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-I have been studying code for 8 years. Since my first job in 2016, I have been a frontend developer.
+I have been code for about 8 years. Since my first job in 2016, I have 
 
-I started my JS and Node career with Angular. I have since moved to writing sites with React - it is more popular and faster to develop.
+I started my web career with JS, Node, and Angular.
+In college I focused on writing React websites for local startups.
+
+After this, I moved my focus to AWS backend work in personal projects like [this](https://github.com/JumpCutter) (Private Repo for now - please keep in mind that we haven't gone open source yet so it won't show up in my profile),.
+
+I have since been writing more tools with different languages like python, and Rust.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreiparrent&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-I have AWS experience and I am currently looking ot learn Rust.
