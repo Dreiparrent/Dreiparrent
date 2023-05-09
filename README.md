@@ -25,4 +25,6 @@ After this, I moved my focus to AWS backend work in personal projects like [this
 
 I have since been writing more tools with different languages like python, and Rust.
 
+
+Please note that this graphic is just for show and doesn't include my current personal work in AWS + rust (which is protected by an NDA)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreiparrent&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
